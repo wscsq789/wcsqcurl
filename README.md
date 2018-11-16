@@ -1,0 +1,2 @@
+# wcsqcurl
+simple curl class
